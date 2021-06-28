@@ -60,14 +60,16 @@ Script com a conexão com Banco de Dados, no qual libera o acesso ou nega ele de
     index
 }
 
-4º Verificação de user - verificar_user.php{
+4º Verificação de user - verificar_user.php
+{
 
     1º abrimos uma sessão 
     2º pegamos a session de user criada em verificar.php, caso
     não exista não permite que qualquer pessoa navegue pela url
 }
 
-5º Saida de user - logout{ 
+5º Saida de user - logout
+{ 
     1º Criamos um <a></a> na página no qual o USER
     tem acesso após passar pelas verificações
 
